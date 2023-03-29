@@ -1,6 +1,4 @@
 
-//#include <IRremote.h>
-#include <ClickButton.h>
 
 
 class DC_Motor
