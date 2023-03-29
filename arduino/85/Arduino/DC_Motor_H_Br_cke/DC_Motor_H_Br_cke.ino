@@ -188,13 +188,17 @@ void loop()
   
     Serial.println(IR_Min);
     Serial.println(IR_Max);
+    int kd = 10;
     int kp = 9;
-    int speeed = 125;
+    int e_alt = 0;
+    int speeed = 175;
     Motor_1.set_Speed(speeed);
     Motor_2.set_Speed(speeed);
     int ir_wert = IR.readIR(); // Messen des Istwertes
     int e = IR_mean - ir_wert; // Regelabweichung = Sollwert - Istwert
-    int deltaSpeed = kp*e; // Änderung der Geschwindigkeit = Proportionalitätsfaktor mal Regelabweichung
+    int differential = e-e_alt;
+    e_alt = e;
+    int deltaSpeed = kp*e + kd*differential; // Änderung der Geschwindigkeit = Proportionalitätsfaktor mal Regelabweichung
     int leftSpeed  = speeed - deltaSpeed;  // Drehzahl linkes Rad
     int rightSpeed = speeed + deltaSpeed;  // Drehzahl rechtes Rad
     leftSpeed = constrain(leftSpeed,0,255);

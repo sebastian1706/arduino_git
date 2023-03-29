@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/Stepper_Motor" added="2023-03-09T17:20:17Z" modified="2023-03-09T17:20:17Z" visited="2023-03-09T17:20:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-09T17:20:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/IR-Sensor_Test" added="2023-03-15T00:16:45Z" modified="2023-03-15T00:16:45Z" visited="2023-03-15T00:16:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-15T00:16:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/DC_Motor_H_Br%C3%BCcke" added="2023-03-15T01:58:03Z" modified="2023-03-15T01:58:03Z" visited="2023-03-15T01:58:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-15T01:58:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/DC_Motor_H_Br_cke/DC_Motor_H_Br_cke.ino" added="2023-03-16T00:40:10Z" modified="2023-03-29T15:27:23Z" visited="2023-03-16T00:40:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-29T15:27:23Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/Test_HC05" added="2023-03-16T12:38:21Z" modified="2023-03-16T12:38:21Z" visited="2023-03-16T12:38:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-16T12:38:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/IR-Sensor_Test/IR-Sensor_Test.ino" added="2023-03-27T13:09:47Z" modified="2023-03-27T22:13:41Z" visited="2023-03-27T13:09:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-27T22:13:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/Test_IR" added="2023-03-27T15:28:09Z" modified="2023-03-27T15:28:09Z" visited="2023-03-27T15:28:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-27T15:28:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/DC_Motor_H_Br_cke(2)" added="2023-03-29T15:02:56Z" modified="2023-03-29T15:02:56Z" visited="2023-03-29T15:02:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-29T15:02:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sebastian/snap/arduino/current/Arduino/DC_Motor_H_Br_cke_2_/DC_Motor_H_Br_cke_2_.ino" added="2023-03-29T15:17:46Z" modified="2023-03-29T15:17:46Z" visited="2023-03-29T15:17:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2023-03-29T15:17:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
